@@ -1,3 +1,3 @@
-#!/usr/bin/bash
+#!/usr/bin/python
 
 print("The magic Prytz appears!")
